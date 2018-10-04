@@ -21,7 +21,7 @@ const IndexPage = () => (
             Enterprises with Future Tech of Web.
           
           </p>
-          <a href="https://goo.gl/forms/XH41TwlMxOeRwmdQ2" className="btn-hero-green">Become a member</a>
+         
         </div>
         <div>
           <img src={heroImage} className="hero-image" alt="hero image"/>
@@ -79,7 +79,7 @@ We focuses on administrative, call centre, light industrial, skilled trades tale
             here to know each other and get connected. Meet our members to know
             more about us and build something cool!
           </p>
-          <Link to="/team" className="btn-hero-green">Learn More</Link>
+          
         </div>
       </section>
     </div>
